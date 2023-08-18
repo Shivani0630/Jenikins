@@ -8,5 +8,11 @@ public class secondLogintest {
 	{
 		System.out.println("----i hate jenkins----");
 	}
+	@Test
+	public void Loginusertest()
+	{
+		System.out.println("----i hate jenkins----");
+	}
+
 
 }
