@@ -6,7 +6,7 @@ public class secondLogintest {
 	@Test(groups = "Smoke")
 	public void Logintest()
 	{
-		System.out.println("----i hate jenkins----");
+		System.out.println("----i hate github----");
 	}
 	@Test
 	public void Loginusertest()
